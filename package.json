@@ -1,0 +1,17 @@
+
+{
+  "name": "fleet-inventory-app",
+  "version": "1.0.0",
+  "main": "App.jsx",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
